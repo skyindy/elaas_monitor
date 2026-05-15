@@ -1,0 +1,261 @@
+{
+  "connections": [
+    {
+      "id": 1,
+      "name": "Database 1",
+      "host": "100.98.65.161",
+      "port": 5432,
+      "user": "laasqry",
+      "password": "*Qtr@xWn",
+      "database": "elaas",
+      "enabled": true,
+      "ssl": true,
+      "useConnectionString": false,
+      "sslCa": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\root.crt",
+      "sslCert": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\root.crt",
+      "sslKey": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\server.key"
+    },
+    {
+      "id": 2,
+      "name": "Database 2",
+      "host": "100.98.65.163",
+      "port": 5432,
+      "user": "laasqry",
+      "password": "*Qtr@xWn",
+      "database": "elaas",
+      "enabled": true,
+      "ssl": true,
+      "sslCa": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\root.crt",
+      "sslCert": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\root.crt",
+      "sslKey": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\server.key"
+    },
+    {
+      "id": 3,
+      "name": "Database 3",
+      "host": "100.98.65.165",
+      "port": 5432,
+      "user": "laasqry",
+      "password": "*Qtr@xWn",
+      "database": "elaas",
+      "enabled": true,
+      "ssl": true,
+      "sslCa": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\root.crt",
+      "sslCert": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\root.crt",
+      "sslKey": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\server.key"
+    },
+    {
+      "id": 4,
+      "name": "Database 4",
+      "host": "100.98.65.167",
+      "port": 5432,
+      "user": "laasqry",
+      "password": "*Qtr@xWn",
+      "database": "elaas",
+      "enabled": true,
+      "ssl": true,
+      "sslCa": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\root.crt",
+      "sslCert": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\root.crt",
+      "sslKey": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\server.key"
+    },
+    {
+      "id": 5,
+      "name": "Database 5",
+      "host": "100.98.65.173",
+      "port": 5432,
+      "user": "laasqry",
+      "password": "*Qtr@xWn",
+      "database": "elaas",
+      "enabled": true,
+      "ssl": true,
+      "sslCa": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\root.crt",
+      "sslCert": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\root.crt",
+      "sslKey": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\server.key"
+    },
+    {
+      "id": 6,
+      "name": "Database 6",
+      "host": "100.98.65.175",
+      "port": 5432,
+      "user": "laasqry",
+      "password": "*Qtr@xWn",
+      "database": "elaas",
+      "enabled": true,
+      "ssl": true,
+      "sslCa": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\root.crt",
+      "sslCert": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\root.crt",
+      "sslKey": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\server.key"
+    },
+    {
+      "id": 7,
+      "name": "Database 7",
+      "host": "100.98.65.177",
+      "port": 5432,
+      "user": "laasqry",
+      "password": "*Qtr@xWn",
+      "database": "elaas",
+      "enabled": true,
+      "ssl": true,
+      "sslCa": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\root.crt",
+      "sslCert": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\root.crt",
+      "sslKey": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\server.key"
+    },
+    {
+      "id": 8,
+      "name": "Database 8",
+      "host": "100.98.65.179",
+      "port": 5432,
+      "user": "laasqry",
+      "password": "*Qtr@xWn",
+      "database": "elaas",
+      "enabled": true,
+      "ssl": true,
+      "sslCa": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\root.crt",
+      "sslCert": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\root.crt",
+      "sslKey": "D:\\Backup_630074\\Backup-Data\\elass\\prod\\CertProd-updated\\postgres\\server.key"
+    }
+  ],
+  "queries": [
+    {
+      "id": 1778159355751,
+      "title": "รายการไม่แสดงให้ทำรายการ",
+      "sql": "",
+      "menu": "วิธีจ่ายเงิน",
+      "seq": "1",
+      "category": "วิธีการจ่ายเงิน"
+    },
+    {
+      "id": 1778159482526,
+      "title": "วันที่อนุมัติ น้อยกว่า วันที่จัดทำ",
+      "sql": "with tmp as (\nselect distinct cr.created_Date::date, cr.approve_Date , ec.approve_Date ,\ncr.site_id, cr.sys_id cheque_report_id , cr.cheque_report_no ,cr.budget_year\n\tfrom expense.laas_Exp_cheque_Report  cr\n\tjoin expense.laas_exp_dika_cheque dc on cr.sys_id = dc.cheque_report_id  and cr.site_id = dc.site_id\n\t join expense.laas_Exp_cheque ec on dc.cheque_id  = ec.sys_id\n\t join expense.laas_Exp_Dika d on d.sys_id = dc.dika_id\n\twhere cr.budget_year >= 2568\n\t--and cr.site_id = '800EAA3A-7F97-421E-A2D7-06FA65E7CDFF'\n\tand cr.created_Date > '2025-03-01'\n\tand dc.status_flag not in ('C' , 'X' , 'Z')\n\tand ec.payment_receive_date is not null\n\tand cr.approve_Date::date  < cr.created_Date::date\n\tand ec.approve_date = cr.approve_Date\n)\nselect  lsm.db_name, ls.site_code ,st.sitetype_name , ls.site_name , lp.province_name , la.amphur_name ,\ntmp.*\nfrom tmp \njoin aim.laas_site ls on ls.sys_id = tmp.site_id\njoin aim.laas_site_type st on\tst.sys_id = ls.site_type_id\njoin common.laas_province lp on\tlp.sys_id = ls.province_id\njoin common.laas_amphur la on\tla.sys_id = ls.amphur_id\njoin common.laas_site_mapping lsm on\tlsm.site_id = ls.sys_id\n",
+      "menu": "อนุมัติรายงานจัดทำเช็ค",
+      "seq": "2",
+      "category": "อนุมัติรายงานจัดทำเช็ค"
+    },
+    {
+      "id": 1778159504846,
+      "title": "สถานะฎีกาไม่ถูกต้อง ",
+      "sql": "",
+      "menu": "รายงานจัดทำเช็ค",
+      "seq": "3",
+      "category": "สถานะฎีกาไม่ถูกต้อง"
+    },
+    {
+      "id": 1778233154158,
+      "title": "เงินรับฝากไม่สมบูรณ์",
+      "sql": "",
+      "menu": "บันทึกจ่ายเงิน",
+      "seq": "4",
+      "category": "เงินรับฝาก"
+    },
+    {
+      "id": 1778233160574,
+      "title": "ไม่แสดงใบผ่านรายการจ่าย, ใบผ่านทั่วไป",
+      "sql": "",
+      "menu": "บันทึกจ่ายเงิน",
+      "seq": "4",
+      "category": "บันทึกจ่ายเงิน"
+    },
+    {
+      "id": 1778233165878,
+      "title": "จ่ายแล้วสถานะฎีกาไม่ถูกต้อง",
+      "sql": "select distinct lsm.db_name, ls.site_code ,st.sitetype_name , ls.site_name , lp.province_name , la.amphur_name,d.site_id\n\t, d.sys_id dika_id , d.dika_no  ,d.budget_year,d.dika_code , d.reference_doc_type  , d.cheque_flag  , d.allow_cheque_flag\n\t,dc.created_date dc_created_date , dc.status_flag dc_status_flag ,\n\td.created_date d_created_date  , d.status_flag d_status_flag,d.status_cancel_flag,  d.updated_date  , d.updated_user_id  ,\n\tec.created_Date ec_created_date , ec.status_flag ec_status_flag  ,ec.payment_receive_system_date,\n        'update expense.laas_Exp_Dika  set ' ||\n        'status_flag = ' ||   QUOTE_LITERAL('Q')  || ', ' ||\n       'cheque_flag = ' || QUOTE_LITERAL('1')  || ', ' ||\n       'updated_user_id = ' ||  QUOTE_LITERAL('SYSTEM')  || ', ' || \n       'updated_date =  CLOCK_TIMESTAMP() ' ||\n       'where  sys_id = ' || QUOTE_LITERAL( d.sys_id  )  || ' ' ||\n       'and dika_no =' || QUOTE_LITERAL( d.dika_no)  || ' ' ||\n       'and site_id = ' || QUOTE_LITERAL( d.site_id)  || ' ' ||\n       'and status_flag =' || QUOTE_LITERAL( d.status_flag)  || ' ' ||\n       'and cheque_flag = ' || QUOTE_LITERAL( d.cheque_flag)   || ' ' ||\n       'and status_cancel_flag = ' ||  QUOTE_LITERAL('N')  ||  ';' AS sql_query\n\tfrom expense.laas_Exp_dika_cheque dc\n\tjoin expense.laas_exp_Cheque ec on dc.cheque_id  = ec.sys_id\n\tjoin expense.laas_exp_dika d on dc.dika_id  = d.sys_id and dc.site_id  = d.site_id\n        join common.laas_site_mapping lsm  on lsm.site_id = d.site_id\n\tjoin  aim.laas_site ls on dc.site_id  = ls.sys_id\n        join aim.laas_site_type st on\tst.sys_id = ls.site_type_id\n\tjoin common.laas_province lp on ls.province_id = lp.sys_id\n\tjoin common.laas_amphur la on la.sys_id = ls.amphur_id\n\twhere d.budget_year  >= 2568\n\t--and ls.site_code like '1%'\n\t--and dc.site_id = 'FE96AEB1-0D29-45C8-9625-96C2C2EE0641'\n\tand ec.status_flag  not in ('X' , 'C' , 'Z')\n\tand ec.payment_receive_system_date  is not null\n\t--and d.dika_no = '68-03-00221-5340500-00004'\n\tand dc.created_date::date >= '2025-03-01'::date\n\tand d.status_flag = 'P' and d.cheque_flag = '0'\n\t;\n",
+      "menu": "บันทึกจ่ายเงิน",
+      "seq": "4",
+      "category": "สถานะฎีกาไม่ถูกต้อง"
+    },
+    {
+      "id": 1778233172414,
+      "title": "สถานะฎีกาไม่ถูกต้อง",
+      "sql": "",
+      "menu": "ยกเลิกจัดทำเช็ค",
+      "seq": "5",
+      "category": "สถานะฎีกาไม่ถูกต้อง"
+    },
+    {
+      "id": 1778235992109,
+      "title": "เงินรับฝาก ref_doc_no ซ้ำกัน",
+      "sql": "with Tmp as \n(\nselect   site_id , commondb_id ,amount  , split_part(ref_Doc_no, ' (', 1) ref_doc_no ,txn_type ,count(*) cnt\nFROM common.laas_common_dbtxn\nWHERE delete_flag = 'F'\nAND budget_year >= 2568\nand txn_type = 'EXP_APPROVE_CHEQUE'\ngroup by site_id , commondb_id ,amount  , split_part(ref_Doc_no, ' (', 1),txn_type\nhaving count(*)  > 1\n)\nselect  lsm.db_name, ls.site_code ,st.sitetype_name , ls.site_name , lp.province_name , la.amphur_name ,\n txn.site_id ,txn.budget_year,c.dbname ,txn.commondb_id ,txn.amount  , d.request_amount ,split_part(txn.ref_Doc_no, ' (', 1)  , txn.ref_doc_no  , \ntxn.created_user_id , txn.sys_id,txn.txn_date,txn.created_date,\n'update  common.laas_common_dbtxn  set ' ||\n'updated_user_id = ' || QUOTE_LITERAL('SYSTEM') || ', ' ||\n'updated_date = CLOCK_TIMESTAMP(), ' ||\n'delete_flag = ' || QUOTE_LITERAL('T') || ', ' ||\n'delete_date = CLOCK_TIMESTAMP()  ' ||\n'where delete_flag = ' || QUOTE_LITERAL('F') || ' ' ||\n'and site_id = ' || QUOTE_LITERAL(txn.site_id )  || ' ' ||\n'and commondb_id = ' || QUOTE_LITERAL(txn.commondb_id )  || ' ' ||\n'and sys_id = ' || QUOTE_LITERAL(txn.sys_id)  || ' ' ||\t\n'and txn_type = ' || QUOTE_LITERAL('EXP_APPROVE_CHEQUE') || ' ' ||\n'and created_user_id = ' || QUOTE_LITERAL(txn.created_user_id)|| ';' AS sql_query\n FROM Tmp \n join common.laas_common_dbtxn txn on tmp.site_id = txn.site_id \n \t\tand tmp.commondb_id = txn.commondb_id \n \t\tand tmp.amount = txn.amount\n \t\tand tmp.txn_type = txn.txn_type\n \t\tand tmp.ref_doc_no = split_part(txn.ref_Doc_no, ' (', 1) \n join common.laas_common_db c on c.sys_id = txn.commondb_id\nleft join expense.laas_Exp_Dika d on d.site_id = txn.site_id and d.dika_no = split_part(txn.ref_Doc_no, ' (', 1)\njoin aim.laas_site ls on ls.sys_id = txn.site_id\njoin aim.laas_site_type st on\tst.sys_id = ls.site_type_id\njoin common.laas_province lp on\tlp.sys_id = ls.province_id\njoin common.laas_amphur la on\tla.sys_id = ls.amphur_id\njoin common.laas_site_mapping lsm on\tlsm.site_id = ls.sys_id\nWHERE txn.delete_flag = 'F'\n  --AND txn.site_id = '95A6F794-86D0-4ACA-8EA4-4DB183858DB7'\n  AND txn.budget_year >= 2568\n  and txn.txn_type = 'EXP_APPROVE_CHEQUE'\n  --AND txn.commondb_id = '75104FA8-3288-4D96-B217-BF27ECACB73C'\n -- and sys_id in (\n -- \t\t'C67AB26C-A83C-4BCD-9A2B-9BE558669504',\n--\t\t'D55EE49C-8A9E-4C24-8AF1-5F2C3FCCE2B5')\n -- group by site_id , commondb_id ,amount  , split_part(ref_Doc_no, ' (', 1)\n -- having count(*)  > 1\n ORDER BY txn.site_id ,split_part(txn.ref_Doc_no, ' (', 1) ,txn.created_user_id ,txn.created_date;\n \n",
+      "seq": "4",
+      "menu": "บันทึกจ่ายเงิน",
+      "category": "เงินรับฝาก"
+    }
+  ],
+  "page3Ip": "100.98.65.161",
+  "reports": [
+    {
+      "id": 1778221789507,
+      "title": "Check site Sharding",
+      "sql": "select lsm.db_name, st.sitetype_name  , ls.site_name  , ls.sys_id site_id , st.sitetype_type  , lp.province_name,la.amphur_name\nfrom aim.laas_site ls\njoin aim.laas_site_type st on st.sys_id =ls.site_type_id\njoin common.laas_province lp  on lp.sys_id = ls.province_id\njoin common.laas_amphur la on la.sys_id = ls.amphur_id\njoin common.laas_site_mapping lsm  on lsm.site_id = ls.sys_id\nwhere  1=1 \nand (\n({{siteName}} is not null and ls.site_name like {{siteName}} )\nor ({{siteId}} is not null and ls.sys_id = {{siteId}} )\n)\n\n"
+    }
+  ],
+  "page3Reports": [
+    {
+      "id": 1778224406098,
+      "title": "เงินรับฝาก-ซ้ำกัน",
+      "sql": "select   site_id , commondb_id ,amount  , split_part(ref_Doc_no, ' (', 1) ,count(*) cnt\n  FROM common.laas_common_dbtxn\n WHERE delete_flag = 'F'\n   AND site_id = {{siteId}}\n   AND budget_year >= 2568\n   and txn_type = 'EXP_APPROVE_CHEQUE'\n  -- AND commondb_id = 'B5A6F622-AF01-4476-8C48-29FC02226B72'\n   group by site_id , commondb_id ,amount  , split_part(ref_Doc_no, ' (', 1)\n   having count(*)  > 1\n-- ORDER BY split_part(ref_Doc_no, ' (', 1) ,created_user_id;\n   ",
+      "host": "100.98.65.167"
+    }
+  ],
+  "checkSiteReports": {
+    "id": "checksite-fixed",
+    "title": "CheckSite",
+    "sql": "select lsm.db_name,\tst.sitetype_name ,\tls.site_name ,\tls.sys_id site_id ,\nst.sitetype_type ,\tlp.province_name,\tla.amphur_name\nfrom aim.laas_site ls\njoin aim.laas_site_type st on\tst.sys_id = ls.site_type_id\njoin common.laas_province lp on\tlp.sys_id = ls.province_id\njoin common.laas_amphur la on\tla.sys_id = ls.amphur_id\njoin common.laas_site_mapping lsm on\tlsm.site_id = ls.sys_id\nwhere  1 = 1\nand ( ({{siteName}} is not null  and ls.site_name like {{siteName}} )\n\tor ( {{siteId}} is not null\tand ls.sys_id = {{siteId}} ) )\n",
+    "host": "100.98.65.161"
+  },
+  "fixIpReports": [
+    {
+      "id": 1778658376280,
+      "title": "Query Description",
+      "sql": "select lsm.db_name, ls.site_code ,st.sitetype_name , ls.site_name , lp.province_name , la.amphur_name , *--distinct A.site_id ,A.cheque_report_id , A.cheque_report_no from ( select distinct cr.created_Date::date, cr.approve_Date , ec.approve_Date , cr.site_id, cr.sys_id cheque_report_id , cr.cheque_report_no ,cr.budget_year--, d.cancel_date , ec.approve_date , ec.cheque_submitted_date , d.status_cancel_flag , dc.dika_id,d.work_accept_id , dc.payment_amount --, d.dika_amount , d.request_amount , --de.dr_cr_amount, --d.dika_code , d.reference_doc_type --,dc.dika_cheque_group_id , dc.cheque_id , ec.payment_receive_system_date --,d.sys_id dika_id ,d.dika_no , d.sys_id , d.dika_code , d.reference_doc_type ,dc.sys_id --,de.sys_id , j.document_no , j.approved_flag , j.descriptions -- ,cr.status_flag , dc.status_flag , ec.status_Flag from expense.laas_Exp_cheque_Report cr join expense.laas_exp_dika_cheque dc on cr.sys_id = dc.cheque_report_id and cr.site_id = dc.site_id join expense.laas_Exp_cheque ec on dc.cheque_id = ec.sys_id join expense.laas_Exp_Dika d on d.sys_id = dc.dika_id --left join account.laas_acc_cash_payments_journal j on j.site_id = d.site_id --and j.ref_doc_id = dc.dika_cheque_group_id and d.sys_id = j.dika_id --left join account.laas_acc_cash_payments_journal_detail de on j.sys_id = de.cash_payments_journal_id and de.dr_cr_flag = 'Cr' where 1=1 --cheque_Report_no in ( '000143/68' , '000156/68') --and cr.site_id = '800EAA3A-7F97-421E-A2D7-06FA65E7CDFF' and cr.budget_year >= 2568 and cr.created_Date > '2025-03-01' and dc.status_flag not in ('C' , 'X' , 'Z') and ec.payment_receive_date is not null and cr.approve_Date::date < cr.created_Date::date and ec.approve_date = cr.approve_Date --and d.request_amount <> de.dr_cr_amount )A join aim.laas_site ls on ls.sys_id = A.site_id join aim.laas_site_type st on st.sys_id = ls.site_type_id join common.laas_province lp on lp.sys_id = ls.province_id join common.laas_amphur la on la.sys_id = ls.amphur_id join common.laas_site_mapping lsm on lsm.site_id = ls.sys_id",
+      "host": "100.98.65.161",
+      "category": "SQL",
+      "targetType": "specific"
+    },
+    {
+      "id": 1778611715064,
+      "title": "New Report",
+      "sql": "",
+      "host": "",
+      "category": "เงินสะสม",
+      "targetType": "specific"
+    },
+    {
+      "id": 1778569852797,
+      "title": "step3-เงินรับฝาก group -list",
+      "sql": "with Tmp as \n(\nselect   site_id , commondb_id ,amount  , split_part(ref_Doc_no, ' (', 1) ref_doc_no ,txn_type ,count(*) cnt\nFROM common.laas_common_dbtxn\nWHERE delete_flag = 'F'\nAND budget_year >= 2568\nand txn_type = 'EXP_APPROVE_CHEQUE'\ngroup by site_id , commondb_id ,amount  , split_part(ref_Doc_no, ' (', 1),txn_type\nhaving count(*)  > 1\n)\nselect  lsm.db_name, ls.site_code ,st.sitetype_name , ls.site_name , lp.province_name , la.amphur_name ,\n txn.site_id ,c.dbname ,txn.commondb_id ,txn.amount  , split_part(txn.ref_Doc_no, ' (', 1)  , txn.ref_doc_no  , \ntxn.created_user_id , txn.sys_id,\n'update  common.laas_common_dbtxn  set ' ||\n'updated_user_id = ' || QUOTE_LITERAL('SYSTEM') || ', ' ||\n'updated_date = CLOCK_TIMESTAMP(), ' ||\n'delete_flag = ' || QUOTE_LITERAL('T') || ', ' ||\n'delete_date = CLOCK_TIMESTAMP()  ' ||\n'where delete_flag = ' || QUOTE_LITERAL('F') || ' ' ||\n'and site_id = ' || QUOTE_LITERAL(txn.site_id )  || ' ' ||\n'and commondb_id = ' || QUOTE_LITERAL(txn.commondb_id )  || ' ' ||\n'and sys_id = ' || QUOTE_LITERAL(txn.sys_id)  || ' ' ||\t\n'and txn_type = ' || QUOTE_LITERAL('EXP_APPROVE_CHEQUE') || ' ' ||\n'and created_user_id = ' || QUOTE_LITERAL(txn.created_user_id)|| ';' AS sql_query\n FROM Tmp \n join common.laas_common_dbtxn txn on tmp.site_id = txn.site_id \n \t\tand tmp.commondb_id = txn.commondb_id \n \t\tand tmp.amount = txn.amount\n \t\tand tmp.txn_type = txn.txn_type\n \t\tand tmp.ref_doc_no = split_part(txn.ref_Doc_no, ' (', 1) \n join common.laas_common_db c on c.sys_id = txn.commondb_id\njoin aim.laas_site ls on ls.sys_id = txn.site_id\njoin aim.laas_site_type st on\tst.sys_id = ls.site_type_id\njoin common.laas_province lp on\tlp.sys_id = ls.province_id\njoin common.laas_amphur la on\tla.sys_id = ls.amphur_id\njoin common.laas_site_mapping lsm on\tlsm.site_id = ls.sys_id\nWHERE txn.delete_flag = 'F'\n  --AND txn.site_id = '95A6F794-86D0-4ACA-8EA4-4DB183858DB7'\n  AND txn.budget_year >= 2568\n  and txn.txn_type = 'EXP_APPROVE_CHEQUE'\n  --AND txn.commondb_id = '75104FA8-3288-4D96-B217-BF27ECACB73C'\n -- and sys_id in (\n -- \t\t'C67AB26C-A83C-4BCD-9A2B-9BE558669504',\n--\t\t'D55EE49C-8A9E-4C24-8AF1-5F2C3FCCE2B5')\n -- group by site_id , commondb_id ,amount  , split_part(ref_Doc_no, ' (', 1)\n -- having count(*)  > 1\n ORDER BY txn.site_id ,split_part(txn.ref_Doc_no, ' (', 1) ,txn.created_user_id;\n \n",
+      "host": "100.98.65.167",
+      "targetType": "specific",
+      "category": "เงินรับฝาก"
+    },
+    {
+      "id": 1778499398004,
+      "title": "step3-เงินรับฝาก-list",
+      "sql": "select   site_id , commondb_id ,amount  , split_part(ref_Doc_no, ' (', 1)  , ref_doc_no  , created_user_id , sys_id,\n'update  common.laas_common_dbtxn  set ' ||\n'updated_user_id = ' || QUOTE_LITERAL('SYSTEM') || ', ' ||\n'updated_date = CLOCK_TIMESTAMP(), ' ||\n'delete_flag = ' || QUOTE_LITERAL('T') || ', ' ||\n'delete_date = CLOCK_TIMESTAMP()  ' ||\n'where delete_flag = ' || QUOTE_LITERAL('F') || ' ' ||\n'and site_id = ' || QUOTE_LITERAL(site_id )  || ' ' ||\n'and commondb_id = ' || QUOTE_LITERAL(commondb_id )  || ' ' ||\n'and sys_id = ' || QUOTE_LITERAL(sys_id)  || ' ' ||\t\n'and txn_type = ' || QUOTE_LITERAL('EXP_APPROVE_CHEQUE') || ' ' ||\n'and created_user_id = ' || QUOTE_LITERAL(created_user_id)|| ';' AS sql_query\n FROM common.laas_common_dbtxn\nWHERE delete_flag = 'F'\n  AND site_id = '95A6F794-86D0-4ACA-8EA4-4DB183858DB7'\n  AND budget_year >= 2568\n  and txn_type = 'EXP_APPROVE_CHEQUE'\n  AND commondb_id = '75104FA8-3288-4D96-B217-BF27ECACB73C'\n -- and sys_id in (\n -- \t\t'C67AB26C-A83C-4BCD-9A2B-9BE558669504',\n--\t\t'D55EE49C-8A9E-4C24-8AF1-5F2C3FCCE2B5')\n -- group by site_id , commondb_id ,amount  , split_part(ref_Doc_no, ' (', 1)\n -- having count(*)  > 1\n ORDER BY split_part(ref_Doc_no, ' (', 1) ,created_user_id;\n \n",
+      "host": "100.98.65.167",
+      "category": "เงินรับฝาก",
+      "targetType": "specific"
+    },
+    {
+      "id": 1778493642414,
+      "title": "step1 - เงินรับฝาก เช็คชื่อ",
+      "sql": "SELECT *\nFROM COMMON.LAAS_COMMON_DB D\nwhere 1=1 --  D.dbtype_id = 'E95DA12D-0EF5-4FBA-B75D-A9AF4E50F17E'\nAND D.delete_flag = 'F'\nand d.site_id = {{siteId}}\nand dbname like {{dbName}}\n",
+      "host": "100.98.65.167",
+      "category": "เงินรับฝาก",
+      "targetType": "specific"
+    },
+    {
+      "id": 1778493505422,
+      "title": "step2-เงินรับฝาก-group",
+      "sql": "select   site_id , commondb_id ,amount  , split_part(ref_Doc_no, ' (', 1) ,count(*) cnt\n FROM common.laas_common_dbtxn\nWHERE delete_flag = 'F'\n  --AND site_id = '95A6F794-86D0-4ACA-8EA4-4DB183858DB7'\n  AND budget_year >= 2568\n  and txn_type = 'EXP_APPROVE_CHEQUE'\n -- AND commondb_id = 'B5A6F622-AF01-4476-8C48-29FC02226B72'\n -- and sys_id in (\n -- \t\t'C67AB26C-A83C-4BCD-9A2B-9BE558669504',\n--\t\t'D55EE49C-8A9E-4C24-8AF1-5F2C3FCCE2B5')\n  group by site_id , commondb_id ,amount  , split_part(ref_Doc_no, ' (', 1)\n  having count(*)  > 1\n-- ORDER BY split_part(ref_Doc_no, ' (', 1) ,created_user_id;\n \n",
+      "host": "100.98.65.167",
+      "category": "เงินรับฝาก",
+      "targetType": "specific"
+    }
+  ],
+  "categories": [],
+  "fixIpCategories": [
+    "เงินสะสม",
+    "เงินรับฝาก",
+    "SQL"
+  ]
+}

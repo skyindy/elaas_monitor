@@ -1,0 +1,16 @@
+@echo off
+echo Starting PostgreSQL Multi-DB Tool...
+echo.
+echo Installing root dependencies...
+call npm install
+echo Installing server dependencies...
+cd server
+call npm install
+echo Installing client dependencies...
+cd ../client
+call npm install
+echo.
+echo Starting Application (Backend + Frontend)...
+cd ..
+npm run dev
+pause
